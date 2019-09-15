@@ -1,2 +1,2 @@
 # FADNet
-The implementation of paper "Towards Fast and Accurate DNN Model for Disparity Estimation".
+The implementation of paper "FADNet: A Fast and Accurate Network for Disparity Estimation".
